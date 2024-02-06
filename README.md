@@ -1,22 +1,23 @@
-GroundStudio
+GroundStudio BMM150 module
 ====================================
+![BMM150_module](https://github.com/GroundStudio/GroundStudio_BMM150_module/assets/77836107/0b39e4d2-e6af-46d0-be42-3dd7c00b4d8f)
 
-Get it from [ardushop.ro](https://ardushop.ro/ro/)
+Get it from [ardushop.ro](https://ardushop.ro/ro/118-groundstudio)
 
 Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.ro/)
 
 Description
 -------------------
-Short description of the board.
+Module based on the BMM150 three-axis geomagnetic sensor equiped with i2c 3v3 connectors.
 
 Contents
 -------------------
 
-* [/Documentation](https://github.com/GroundStudio) -- Contains documentation written during creation of this repository, with readme.md index of its own!
-* [/Firmware](https://github.com/GroundStudio) -- Firmware (bootloaders, etc)
-* [/Hardware](https://github.com/GroundStudio) -- Schematics, layout.
-* [/Libraries](https://github.com/GroundStudio) -- Arduino/CircuitPython libraries. 
-* [/Tools](https://github.com/GroundStudio) -- Tools needed for compiling, uploading bootloader, etc.
+* [/Documentation](https://github.com/GroundStudio/GroundStudio_BMM150_module/tree/main/Documentation) -- Contains documentation written during creation of this repository, with readme.md index of its own!
+* [/Firmware](https://github.com/GroundStudio/GroundStudio_BMM150_module/tree/main/Firmware) -- Firmware (bootloaders, etc)
+* [/Hardware](https://github.com/GroundStudio/GroundStudio_BMM150_module/tree/main/Hardware) -- Schematics, layout.
+* [/Libraries](https://github.com/GroundStudio/GroundStudio_BMM150_module/tree/main/Libraries) -- Arduino/CircuitPython libraries. 
+* [/Tools](https://github.com/GroundStudio/GroundStudio_BMM150_module) -- Tools needed for compiling, uploading bootloader, etc.
 
 Versions
 -------------------
