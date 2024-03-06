@@ -26,9 +26,12 @@ Versions
 
 License
 -------------------
-[![certification-mark-RO000003-wide](https://github.com/GroundStudio/GroundStudio_BMM150_module/assets/77836107/d1cea819-71d2-41a9-a2aa-84d27913c22f)](https://certification.oshwa.org/ro000003.html)
-
 This is released under the [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) license. 
 **You are welcome to use this for commercial purposes.**
 
 Please consider contributing back to this project or others to help the open-source hardware community continue to thrive and grow! 
+   
+Certifications:   
+[Open Source Hardware Association](https://certification.oshwa.org/ro000003.html)
+
+[![certification-mark-RO000003-wide](https://github.com/GroundStudio/GroundStudio_BMM150_module/assets/77836107/d1cea819-71d2-41a9-a2aa-84d27913c22f)](https://certification.oshwa.org/ro000003.html)
